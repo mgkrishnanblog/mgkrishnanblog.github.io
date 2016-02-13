@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       M G கிருஷ்ணன்
+email:       mgkrishnanblogs@gmail.com
+author:      M G Krishnan 
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://mgkrishnan.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -27,7 +27,7 @@ extended_fonts: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: vaidee
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -39,7 +39,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: vaideee
 skype_username:
 steam_nickname:
 google_plus_id:
